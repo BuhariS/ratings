@@ -1,0 +1,1638 @@
+,user_id,item_id,rating
+0,user_51,Wireless Mouse,4
+1,user_92,Sportswear,5
+2,user_14,Wristwatch,5
+3,user_71,Router,2
+4,user_60,External Hard Drive,5
+5,user_20,Graphics Card,5
+6,user_82,Sneakers,3
+7,user_86,Microphone,3
+8,user_74,Sunglasses,2
+9,user_74,Power Bank,1
+10,user_87,Blazer,2
+11,user_99,Wristwatch,2
+12,user_23,Heels,4
+13,user_2,Sunglasses,4
+14,user_21,Samsung Galaxy,2
+15,user_52,Sunglasses,2
+16,user_1,Sunglasses,2
+17,user_87,Scarf,5
+18,user_29,Keyboard,4
+19,user_37,Dress,2
+21,user_63,Keyboard,3
+22,user_59,T-Shirt,5
+24,user_32,Skirt,1
+25,user_75,Samsung Galaxy,1
+26,user_57,Suit,1
+27,user_21,Skirt,5
+28,user_88,T-Shirt,5
+29,user_48,Sportswear,5
+30,user_90,Heels,3
+31,user_58,Router,5
+32,user_41,Cap,3
+33,user_91,Belt,1
+34,user_59,Boots,1
+35,user_79,Agbada,1
+36,user_14,Blazer,2
+37,user_61,Gaming Console,2
+38,user_61,Laptop,4
+39,user_46,Bluetooth Speaker,4
+40,user_61,Camera,4
+41,user_50,Bluetooth Speaker,2
+42,user_54,Camera,2
+43,user_63,Skirt,4
+44,user_2,Handbag,4
+45,user_50,Wristwatch,5
+46,user_6,Scarf,4
+47,user_20,Heels,5
+48,user_72,Wireless Mouse,3
+49,user_38,Tablet,2
+50,user_17,Tablet,4
+51,user_3,Heels,2
+52,user_88,Sneakers,2
+53,user_59,Microphone,2
+54,user_13,Ankara Dress,3
+55,user_8,Smart Watch,1
+56,user_89,Gaming Console,4
+57,user_52,Microphone,1
+58,user_1,External Hard Drive,1
+59,user_83,Headphones,1
+60,user_91,Bluetooth Speaker,2
+61,user_59,Graphics Card,5
+62,user_70,T-Shirt,2
+63,user_43,Laptop,2
+64,user_7,Scarf,1
+65,user_46,Belt,2
+66,user_34,Monitor,1
+67,user_77,Gaming Console,5
+68,user_80,VR Headset,4
+69,user_35,Wireless Mouse,1
+70,user_49,Processor,5
+71,user_3,Wireless Mouse,4
+72,user_1,Keyboard,3
+73,user_5,Smart Home Hub,1
+74,user_53,Tracksuit,1
+75,user_3,Projector,3
+76,user_53,Sportswear,3
+77,user_92,Sandals,1
+78,user_62,Tracksuit,3
+80,user_89,Jacket,4
+81,user_43,Wristwatch,4
+82,user_33,Boots,4
+83,user_73,VR Headset,2
+84,user_61,Bluetooth Speaker,3
+85,user_99,VR Headset,5
+86,user_13,Projector,3
+87,user_94,Graphics Card,1
+88,user_47,Hoodie,4
+90,user_71,Scarf,5
+91,user_77,Laptop,1
+92,user_86,Sneakers,2
+93,user_61,Power Bank,2
+94,user_39,Shoes,5
+95,user_84,Jacket,1
+96,user_79,Router,4
+97,user_81,Sunglasses,3
+98,user_52,Smart Watch,1
+99,user_23,Wireless Mouse,2
+100,user_25,Agbada,5
+101,user_88,Dress,5
+102,user_59,Webcam,3
+103,user_40,Handbag,5
+104,user_28,SSD,5
+105,user_14,Microphone,1
+106,user_44,Hoodie,4
+107,user_64,Headphones,3
+109,user_70,Boots,4
+110,user_8,Microphone,1
+111,user_87,SSD,1
+112,user_0,Heels,5
+113,user_7,Agbada,4
+114,user_87,Wristwatch,3
+115,user_62,Scarf,3
+116,user_10,Sandals,4
+117,user_80,Cap,5
+118,user_7,Sandals,2
+119,user_34,Samsung Galaxy,1
+120,user_34,Router,5
+121,user_32,Cap,4
+122,user_4,Sandals,1
+123,user_40,Bluetooth Speaker,3
+124,user_27,Skirt,2
+125,user_6,Belt,3
+127,user_71,Laptop,1
+128,user_11,Tracksuit,4
+129,user_33,VR Headset,1
+130,user_32,Blazer,5
+131,user_47,Webcam,2
+132,user_22,Router,5
+133,user_61,Sunglasses,5
+134,user_87,Shoes,4
+135,user_36,T-Shirt,2
+136,user_98,Tablet,1
+137,user_43,Sandals,1
+138,user_85,Kaftan,3
+139,user_90,Dress,1
+140,user_34,Processor,4
+141,user_64,Belt,5
+142,user_98,Boots,5
+143,user_46,Monitor,5
+144,user_77,Monitor,2
+145,user_2,Samsung Galaxy,1
+146,user_0,Hoodie,4
+147,user_4,Smart TV,2
+148,user_89,Suit,3
+149,user_13,Tracksuit,4
+150,user_26,Scarf,4
+151,user_8,Ankara Dress,4
+152,user_78,Monitor,5
+153,user_14,Skirt,4
+154,user_89,Smart Home Hub,1
+155,user_41,Microphone,4
+156,user_76,Samsung Galaxy,5
+157,user_50,Skirt,4
+158,user_62,Bluetooth Speaker,3
+159,user_95,Drone,3
+160,user_51,Smart Home Hub,5
+161,user_95,Sneakers,1
+162,user_3,Samsung Galaxy,1
+163,user_93,Shoes,2
+164,user_22,Hoodie,5
+165,user_14,Smart TV,4
+166,user_42,iPhone,5
+167,user_28,Blazer,2
+169,user_12,Sandals,5
+170,user_31,Tracksuit,2
+171,user_70,Processor,1
+172,user_58,Ankara Dress,4
+173,user_85,Handbag,2
+174,user_27,Gaming Console,3
+175,user_65,Power Bank,1
+176,user_41,Laptop,3
+177,user_44,Monitor,1
+178,user_61,External Hard Drive,4
+179,user_56,Power Bank,4
+180,user_5,Jacket,5
+181,user_27,Power Bank,3
+182,user_27,Wireless Mouse,1
+183,user_43,Dress,4
+184,user_83,Scarf,2
+185,user_29,iPhone,4
+186,user_61,Smart TV,2
+187,user_74,Microphone,1
+188,user_91,Tablet,4
+189,user_88,Wallet,4
+190,user_61,Wireless Mouse,1
+191,user_96,iPhone,4
+192,user_0,Microphone,2
+193,user_26,Sneakers,4
+194,user_61,Wallet,3
+195,user_76,Hoodie,5
+196,user_2,Ankara Dress,2
+197,user_69,Hoodie,3
+198,user_71,Wireless Mouse,1
+199,user_26,Hoodie,2
+200,user_8,Agbada,5
+201,user_61,Agbada,5
+202,user_36,Boots,1
+203,user_96,Sneakers,1
+204,user_50,Ankara Dress,2
+205,user_43,Router,4
+206,user_23,Bluetooth Speaker,1
+207,user_78,Boots,4
+208,user_58,Microphone,3
+209,user_31,Heels,5
+210,user_95,Monitor,4
+211,user_87,Samsung Galaxy,5
+212,user_51,Camera,4
+213,user_61,Hoodie,3
+214,user_57,Microphone,1
+215,user_51,T-Shirt,3
+216,user_11,Jacket,1
+217,user_38,iPhone,1
+218,user_1,Shoes,5
+219,user_2,Bluetooth Speaker,3
+220,user_55,Hoodie,4
+221,user_80,Smart TV,3
+222,user_58,Sunglasses,5
+223,user_1,Agbada,1
+224,user_1,Monitor,5
+225,user_91,Wireless Mouse,2
+226,user_53,Belt,2
+228,user_95,Heels,5
+229,user_96,SSD,4
+230,user_0,Wallet,4
+231,user_18,Cap,2
+232,user_1,Smart Home Hub,4
+233,user_52,Heels,2
+234,user_43,Jacket,1
+235,user_89,Skirt,5
+236,user_31,Handbag,4
+237,user_69,Ankara Dress,2
+238,user_31,Wallet,3
+239,user_67,Heels,4
+240,user_54,Processor,1
+241,user_74,Boots,1
+242,user_55,Suit,3
+243,user_16,Microphone,2
+244,user_37,Processor,4
+245,user_23,Tracksuit,2
+246,user_68,External Hard Drive,1
+247,user_97,Heels,2
+248,user_69,Belt,1
+249,user_85,Tablet,2
+250,user_10,Heels,3
+251,user_15,Webcam,5
+253,user_72,Tablet,3
+254,user_58,Jacket,5
+255,user_69,Wristwatch,5
+256,user_79,Suit,4
+257,user_92,Smart TV,4
+259,user_19,Graphics Card,3
+261,user_35,Cap,1
+262,user_18,iPhone,4
+263,user_89,T-Shirt,4
+264,user_66,Wallet,1
+265,user_18,Power Bank,1
+266,user_19,Dress,2
+268,user_70,VR Headset,1
+269,user_51,Drone,2
+270,user_32,T-Shirt,5
+271,user_39,Tablet,4
+272,user_38,Ankara Dress,4
+273,user_81,Blazer,1
+274,user_0,Agbada,3
+275,user_10,Wireless Mouse,1
+276,user_91,Jeans,2
+277,user_56,Tablet,3
+278,user_88,Smart Home Hub,2
+279,user_49,Sportswear,5
+280,user_22,Headphones,2
+281,user_30,Sunglasses,5
+282,user_93,iPhone,5
+283,user_41,Projector,2
+284,user_98,Handbag,2
+285,user_6,External Hard Drive,5
+286,user_15,Monitor,3
+287,user_89,Kaftan,5
+288,user_59,Smart TV,4
+289,user_1,Scarf,5
+290,user_0,T-Shirt,3
+291,user_47,Sneakers,4
+292,user_11,Samsung Galaxy,1
+293,user_68,Heels,1
+294,user_36,Bluetooth Speaker,3
+295,user_31,Camera,5
+296,user_8,Sunglasses,2
+297,user_98,Scarf,3
+298,user_18,Smart Home Hub,4
+299,user_47,Kaftan,4
+300,user_79,Keyboard,1
+301,user_2,Camera,4
+302,user_19,Keyboard,3
+303,user_23,Handbag,4
+304,user_53,Scarf,3
+305,user_32,Gaming Console,2
+306,user_23,Headphones,1
+307,user_74,Cap,4
+308,user_71,Suit,3
+309,user_35,Sportswear,5
+310,user_37,Headphones,1
+311,user_83,Suit,2
+312,user_98,Projector,3
+313,user_88,Bluetooth Speaker,2
+314,user_98,Cap,2
+315,user_24,VR Headset,4
+316,user_92,Keyboard,4
+317,user_17,Scarf,3
+318,user_81,Processor,5
+319,user_65,Projector,3
+321,user_34,Gaming Console,2
+322,user_79,iPhone,1
+323,user_60,SSD,3
+324,user_40,Smart Watch,3
+325,user_99,Smart Home Hub,5
+326,user_32,Webcam,2
+327,user_67,Router,2
+328,user_32,iPhone,5
+329,user_13,Wireless Mouse,2
+330,user_20,Smart Watch,4
+331,user_47,Router,1
+332,user_19,Webcam,3
+333,user_7,Projector,1
+334,user_6,Jacket,3
+335,user_66,Smart Home Hub,4
+336,user_16,Sunglasses,2
+337,user_32,Agbada,5
+338,user_47,Wristwatch,4
+339,user_75,Agbada,1
+340,user_58,Shoes,5
+341,user_85,Boots,2
+342,user_21,Suit,4
+343,user_29,T-Shirt,5
+344,user_37,Gaming Console,4
+345,user_50,Shoes,4
+346,user_53,Tablet,2
+347,user_7,Sportswear,3
+348,user_26,Monitor,5
+349,user_26,Power Bank,2
+350,user_97,Samsung Galaxy,4
+351,user_20,Sportswear,2
+352,user_29,Camera,3
+353,user_96,Laptop,5
+354,user_27,Webcam,3
+355,user_63,T-Shirt,1
+356,user_96,Tablet,5
+357,user_68,Kaftan,3
+358,user_60,Samsung Galaxy,4
+359,user_47,Bluetooth Speaker,5
+360,user_18,Sneakers,5
+361,user_3,Jacket,2
+362,user_34,T-Shirt,4
+363,user_63,Smart Home Hub,1
+364,user_48,Wireless Mouse,3
+365,user_16,Smart TV,2
+366,user_43,Cap,3
+367,user_91,Kaftan,1
+368,user_29,Hoodie,1
+369,user_92,Router,5
+370,user_45,Boots,1
+371,user_5,Sandals,3
+372,user_98,Router,4
+373,user_36,Wallet,4
+374,user_23,Kaftan,5
+375,user_92,Processor,3
+376,user_45,Bluetooth Speaker,3
+377,user_52,Sportswear,1
+378,user_94,Heels,3
+380,user_59,Wallet,1
+381,user_96,Tracksuit,2
+382,user_62,Webcam,5
+383,user_84,Processor,4
+385,user_86,External Hard Drive,4
+386,user_32,Ankara Dress,5
+387,user_66,Router,3
+388,user_17,Smart Home Hub,2
+389,user_24,Sandals,4
+390,user_94,Gaming Console,1
+391,user_53,Router,2
+392,user_57,Headphones,1
+393,user_66,Webcam,2
+394,user_45,Keyboard,2
+395,user_23,Graphics Card,5
+396,user_31,Projector,4
+397,user_46,Cap,4
+398,user_85,Monitor,2
+400,user_65,Kaftan,3
+401,user_26,Sportswear,1
+402,user_1,Jeans,1
+404,user_16,Ankara Dress,2
+405,user_32,Sneakers,1
+406,user_8,Shoes,1
+407,user_42,Tablet,2
+408,user_47,External Hard Drive,5
+409,user_38,Belt,1
+411,user_41,Dress,4
+412,user_25,VR Headset,5
+413,user_98,Samsung Galaxy,3
+414,user_49,Agbada,3
+415,user_24,Keyboard,5
+417,user_12,T-Shirt,4
+418,user_59,Smart Home Hub,2
+419,user_6,Dress,3
+420,user_56,Gaming Console,3
+421,user_35,Smart Watch,5
+422,user_44,Handbag,4
+423,user_19,Boots,2
+424,user_64,Power Bank,5
+425,user_7,Skirt,5
+426,user_15,Keyboard,4
+427,user_13,Handbag,2
+428,user_75,Smart Watch,4
+429,user_86,Agbada,2
+430,user_14,Belt,4
+432,user_97,Sandals,5
+433,user_65,Microphone,1
+434,user_31,Headphones,3
+435,user_86,Smart Watch,4
+436,user_62,iPhone,1
+438,user_50,Tracksuit,4
+439,user_24,Belt,2
+440,user_57,Ankara Dress,3
+441,user_62,Keyboard,5
+442,user_61,Graphics Card,1
+443,user_21,Webcam,3
+444,user_57,Graphics Card,3
+445,user_57,Sneakers,5
+446,user_85,Camera,4
+447,user_48,T-Shirt,2
+449,user_41,Router,2
+450,user_69,Power Bank,4
+451,user_14,SSD,3
+453,user_59,Tablet,1
+455,user_7,External Hard Drive,5
+456,user_52,Agbada,4
+458,user_4,Jeans,5
+459,user_67,Hoodie,5
+460,user_5,Headphones,1
+462,user_93,SSD,5
+463,user_46,Projector,1
+464,user_98,Sandals,4
+465,user_54,Skirt,5
+466,user_39,Power Bank,1
+468,user_15,VR Headset,5
+469,user_12,Projector,5
+470,user_29,Sandals,4
+473,user_62,Heels,4
+474,user_18,Smart TV,4
+475,user_91,Ankara Dress,4
+476,user_57,Agbada,3
+477,user_54,Shoes,4
+478,user_89,Boots,1
+479,user_89,Cap,5
+481,user_22,Webcam,2
+482,user_8,Drone,2
+483,user_11,Graphics Card,5
+484,user_0,Kaftan,1
+485,user_57,Hoodie,3
+486,user_0,Router,3
+487,user_33,Shoes,1
+489,user_47,Smart Watch,4
+490,user_88,Wristwatch,5
+491,user_0,Gaming Console,5
+492,user_15,Power Bank,1
+493,user_60,Camera,3
+494,user_63,Monitor,2
+496,user_68,Smart Home Hub,3
+498,user_92,Shoes,1
+499,user_66,Smart Watch,1
+500,user_75,Webcam,3
+502,user_15,Laptop,1
+503,user_50,Belt,1
+504,user_85,Skirt,4
+505,user_56,Scarf,4
+506,user_28,Agbada,1
+508,user_91,Skirt,5
+509,user_68,SSD,5
+510,user_46,Sportswear,1
+511,user_93,Projector,1
+512,user_61,Headphones,1
+513,user_68,T-Shirt,3
+514,user_75,Suit,4
+515,user_15,Belt,1
+516,user_89,Wristwatch,1
+518,user_47,Tracksuit,3
+519,user_84,Sportswear,1
+520,user_38,Sandals,2
+521,user_99,Blazer,5
+522,user_32,Hoodie,1
+523,user_93,Sunglasses,1
+524,user_22,Sandals,2
+525,user_9,Laptop,3
+526,user_68,Camera,1
+527,user_99,Tablet,5
+528,user_33,Sunglasses,1
+529,user_51,Bluetooth Speaker,5
+530,user_94,Scarf,4
+531,user_9,Skirt,4
+532,user_18,Headphones,5
+533,user_57,Keyboard,3
+534,user_95,Agbada,1
+535,user_0,Samsung Galaxy,1
+536,user_68,Smart TV,4
+537,user_3,Boots,5
+538,user_15,Jeans,1
+539,user_23,Wristwatch,1
+540,user_79,Webcam,3
+541,user_1,Tablet,2
+542,user_91,Suit,4
+543,user_31,Tablet,4
+545,user_83,Laptop,1
+546,user_23,Boots,3
+547,user_11,Laptop,3
+548,user_49,Graphics Card,4
+549,user_34,Bluetooth Speaker,3
+550,user_32,Samsung Galaxy,2
+551,user_32,Processor,1
+552,user_60,Boots,2
+553,user_50,Samsung Galaxy,5
+554,user_42,Suit,4
+555,user_11,Drone,3
+556,user_66,Shoes,5
+557,user_64,Cap,3
+559,user_39,Dress,1
+560,user_73,Tablet,1
+561,user_42,Graphics Card,3
+562,user_43,Boots,5
+563,user_28,Sandals,1
+564,user_12,Smart TV,5
+565,user_11,Keyboard,3
+566,user_94,Jacket,5
+567,user_45,Handbag,3
+568,user_1,Ankara Dress,3
+569,user_34,External Hard Drive,4
+570,user_86,Belt,3
+571,user_80,Dress,3
+572,user_89,External Hard Drive,2
+573,user_7,Wireless Mouse,1
+574,user_92,Drone,4
+575,user_25,External Hard Drive,4
+576,user_73,Wireless Mouse,4
+577,user_89,Tablet,2
+578,user_33,Microphone,3
+579,user_6,Laptop,1
+580,user_67,External Hard Drive,5
+581,user_57,Dress,3
+582,user_74,Tracksuit,2
+583,user_28,Processor,3
+584,user_35,Sneakers,3
+585,user_88,Blazer,2
+586,user_20,Smart TV,4
+587,user_35,Microphone,4
+588,user_9,Blazer,1
+589,user_72,Boots,1
+590,user_23,iPhone,4
+591,user_63,Dress,5
+592,user_98,Webcam,3
+593,user_48,Microphone,5
+594,user_98,Bluetooth Speaker,3
+595,user_35,Graphics Card,4
+596,user_81,VR Headset,1
+597,user_95,Tablet,1
+598,user_23,Skirt,5
+599,user_22,Wristwatch,1
+601,user_95,External Hard Drive,5
+602,user_36,Wireless Mouse,3
+603,user_11,Suit,1
+604,user_54,Cap,2
+605,user_12,Monitor,1
+607,user_88,Sunglasses,5
+608,user_98,Processor,3
+609,user_29,Heels,2
+610,user_16,Tracksuit,4
+611,user_61,Samsung Galaxy,1
+613,user_88,Webcam,4
+614,user_85,Samsung Galaxy,3
+615,user_12,Jeans,5
+616,user_58,Camera,4
+618,user_48,Gaming Console,2
+619,user_99,Laptop,2
+620,user_11,Processor,1
+621,user_60,T-Shirt,1
+623,user_75,VR Headset,5
+624,user_8,Bluetooth Speaker,2
+625,user_70,Shoes,1
+626,user_27,Graphics Card,2
+627,user_77,Wallet,2
+628,user_94,Router,5
+629,user_51,Graphics Card,4
+630,user_82,Hoodie,1
+632,user_68,Wireless Mouse,2
+633,user_98,Ankara Dress,2
+634,user_11,Agbada,4
+636,user_51,Suit,1
+637,user_84,VR Headset,3
+638,user_99,Tracksuit,1
+639,user_52,Shoes,4
+640,user_22,Dress,3
+641,user_15,SSD,3
+642,user_56,Belt,2
+643,user_38,Dress,2
+644,user_52,Monitor,1
+645,user_41,Bluetooth Speaker,3
+646,user_57,Laptop,2
+647,user_38,External Hard Drive,4
+648,user_13,Smart Watch,2
+649,user_94,Monitor,2
+650,user_4,Camera,3
+652,user_86,Webcam,5
+654,user_74,Samsung Galaxy,3
+655,user_17,Jeans,1
+659,user_57,Monitor,4
+661,user_6,VR Headset,2
+662,user_45,Power Bank,5
+663,user_12,Smart Home Hub,2
+664,user_39,Samsung Galaxy,3
+665,user_41,Smart Home Hub,3
+667,user_49,Sandals,1
+668,user_26,Handbag,1
+669,user_65,Monitor,1
+670,user_4,iPhone,3
+671,user_28,Sportswear,4
+672,user_36,External Hard Drive,3
+673,user_37,Sportswear,4
+674,user_82,Laptop,2
+675,user_7,Shoes,5
+676,user_64,Scarf,4
+677,user_85,Bluetooth Speaker,1
+678,user_16,Smart Home Hub,3
+679,user_70,Keyboard,2
+680,user_88,Cap,1
+681,user_44,Tablet,2
+682,user_3,Webcam,5
+684,user_69,Headphones,3
+685,user_30,Smart Home Hub,5
+686,user_18,Router,3
+687,user_60,Headphones,4
+689,user_38,Wireless Mouse,1
+690,user_90,Wristwatch,5
+691,user_73,Wristwatch,4
+692,user_89,Sneakers,1
+693,user_18,Keyboard,1
+694,user_38,Handbag,5
+695,user_66,Monitor,4
+696,user_44,Microphone,1
+697,user_12,VR Headset,1
+698,user_91,Jacket,4
+699,user_57,Bluetooth Speaker,3
+700,user_19,Wristwatch,1
+702,user_71,Wallet,4
+704,user_38,Processor,5
+705,user_0,Projector,2
+707,user_76,Smart TV,2
+708,user_91,Projector,2
+709,user_61,Cap,3
+710,user_62,Power Bank,2
+711,user_24,Smart Home Hub,3
+712,user_55,Samsung Galaxy,4
+714,user_37,Heels,5
+715,user_5,Handbag,1
+716,user_57,Router,4
+717,user_43,Camera,4
+718,user_44,Processor,5
+720,user_44,Camera,1
+721,user_60,Shoes,3
+722,user_46,Webcam,2
+723,user_20,Camera,3
+724,user_79,Sneakers,4
+726,user_74,Smart Watch,3
+727,user_35,External Hard Drive,1
+728,user_98,External Hard Drive,1
+729,user_18,Sunglasses,2
+730,user_19,Headphones,2
+731,user_56,Headphones,4
+732,user_17,Skirt,5
+733,user_46,Blazer,1
+734,user_48,Drone,5
+735,user_13,Hoodie,4
+737,user_30,Jacket,1
+738,user_0,Sandals,5
+739,user_53,Suit,3
+740,user_2,Skirt,2
+741,user_15,Heels,3
+742,user_86,Hoodie,5
+743,user_56,Shoes,2
+745,user_11,Jeans,2
+746,user_73,Sneakers,1
+747,user_95,Graphics Card,3
+749,user_71,Smart Watch,2
+750,user_75,Hoodie,2
+752,user_27,Smart TV,4
+753,user_7,Samsung Galaxy,3
+755,user_35,Webcam,3
+757,user_7,Router,1
+758,user_57,Webcam,3
+759,user_59,Power Bank,3
+762,user_91,Smart TV,1
+763,user_40,iPhone,5
+764,user_99,Keyboard,3
+765,user_63,Webcam,1
+766,user_26,T-Shirt,1
+769,user_72,Webcam,1
+770,user_32,VR Headset,5
+771,user_83,Hoodie,1
+772,user_76,Tracksuit,2
+773,user_91,Wristwatch,3
+775,user_12,Drone,2
+776,user_45,Shoes,5
+777,user_34,Agbada,2
+778,user_5,Gaming Console,3
+779,user_81,Webcam,3
+781,user_46,Headphones,2
+782,user_24,Cap,4
+784,user_9,VR Headset,4
+785,user_55,Blazer,3
+786,user_29,Shoes,5
+787,user_4,Scarf,4
+788,user_32,Jacket,2
+789,user_64,Jacket,2
+790,user_17,Suit,3
+791,user_95,Belt,2
+792,user_48,Webcam,1
+793,user_10,Belt,5
+794,user_84,Keyboard,4
+797,user_88,Drone,4
+799,user_58,Scarf,1
+800,user_26,iPhone,3
+801,user_48,Samsung Galaxy,2
+802,user_76,Kaftan,1
+804,user_97,Sunglasses,5
+805,user_98,Power Bank,5
+807,user_20,Blazer,1
+808,user_54,Webcam,2
+809,user_5,Sneakers,4
+810,user_91,Gaming Console,5
+812,user_68,Tablet,3
+814,user_4,Tablet,4
+815,user_2,Agbada,3
+816,user_52,Router,3
+817,user_22,Drone,4
+818,user_52,Processor,5
+819,user_36,SSD,1
+820,user_73,Tracksuit,4
+821,user_73,Projector,4
+822,user_82,Smart TV,4
+823,user_16,Wristwatch,3
+824,user_84,Boots,2
+825,user_77,iPhone,1
+826,user_72,Processor,5
+828,user_50,Tablet,2
+829,user_44,Keyboard,4
+830,user_76,Tablet,1
+831,user_3,Processor,5
+833,user_64,iPhone,4
+835,user_33,SSD,1
+836,user_91,Shoes,2
+837,user_94,SSD,2
+838,user_71,Drone,1
+839,user_38,Smart TV,1
+840,user_25,Microphone,5
+841,user_33,Webcam,5
+842,user_53,Blazer,1
+845,user_11,Sandals,3
+846,user_64,Gaming Console,1
+848,user_4,Projector,2
+849,user_93,Smart Watch,1
+850,user_93,Sneakers,4
+851,user_56,Wallet,3
+853,user_46,Smart TV,1
+855,user_78,Wristwatch,5
+856,user_84,Tablet,5
+857,user_13,Power Bank,4
+858,user_65,Suit,5
+859,user_74,Ankara Dress,1
+861,user_37,Kaftan,2
+862,user_63,Sneakers,5
+863,user_97,Drone,4
+864,user_37,Handbag,2
+865,user_49,Tablet,1
+866,user_97,Blazer,1
+867,user_81,Smart Home Hub,3
+869,user_78,Samsung Galaxy,3
+870,user_90,Router,2
+871,user_50,Heels,2
+872,user_62,Laptop,4
+873,user_97,Agbada,3
+874,user_51,Sandals,4
+876,user_96,Monitor,1
+878,user_78,Scarf,4
+879,user_29,Smart Home Hub,3
+881,user_80,Power Bank,4
+882,user_4,Webcam,3
+885,user_9,Jeans,1
+887,user_16,Samsung Galaxy,3
+888,user_73,Keyboard,3
+890,user_83,Handbag,2
+891,user_87,External Hard Drive,1
+892,user_68,Wristwatch,5
+893,user_33,Wristwatch,2
+894,user_5,Cap,2
+895,user_52,Gaming Console,3
+897,user_76,Router,1
+898,user_42,Drone,2
+899,user_74,Blazer,5
+900,user_22,VR Headset,5
+902,user_79,Smart Home Hub,5
+903,user_94,Blazer,5
+904,user_74,Monitor,5
+905,user_15,Smart Home Hub,2
+906,user_7,Heels,1
+907,user_3,Graphics Card,5
+908,user_3,Dress,5
+909,user_55,Microphone,2
+910,user_24,Webcam,1
+911,user_66,Boots,3
+912,user_95,Wristwatch,2
+913,user_66,Sportswear,1
+914,user_26,Agbada,5
+915,user_92,Webcam,1
+916,user_31,Shoes,1
+917,user_49,Wristwatch,1
+918,user_60,Dress,3
+920,user_18,Agbada,3
+921,user_20,Wireless Mouse,5
+923,user_81,Ankara Dress,5
+924,user_91,VR Headset,5
+925,user_41,Webcam,3
+926,user_60,Keyboard,2
+928,user_20,Tablet,1
+929,user_69,Sportswear,4
+930,user_0,Blazer,1
+931,user_4,Sportswear,1
+932,user_11,Smart Watch,5
+933,user_89,Processor,1
+937,user_77,Graphics Card,3
+938,user_89,Graphics Card,1
+939,user_44,Wallet,5
+940,user_26,Smart Home Hub,3
+941,user_72,Graphics Card,3
+942,user_25,Sneakers,2
+943,user_46,Jacket,1
+944,user_85,Keyboard,5
+945,user_55,VR Headset,3
+946,user_93,Samsung Galaxy,3
+947,user_62,Jacket,5
+949,user_60,Router,2
+950,user_80,Jeans,3
+951,user_25,Heels,2
+952,user_35,Handbag,4
+954,user_7,Processor,4
+955,user_98,SSD,4
+956,user_51,Boots,4
+957,user_78,Keyboard,1
+958,user_46,Graphics Card,1
+959,user_55,Wallet,5
+960,user_85,Hoodie,2
+961,user_13,Sunglasses,2
+962,user_89,Laptop,5
+963,user_27,Projector,5
+964,user_86,Processor,4
+965,user_77,Jacket,5
+966,user_87,Dress,3
+967,user_1,Skirt,2
+968,user_25,Boots,5
+970,user_58,Smart Home Hub,3
+972,user_6,Ankara Dress,3
+973,user_2,Tablet,4
+974,user_22,Belt,3
+975,user_17,External Hard Drive,4
+976,user_37,Tablet,4
+977,user_98,iPhone,3
+978,user_14,Boots,2
+979,user_63,Smart TV,3
+980,user_88,Laptop,3
+981,user_27,iPhone,3
+982,user_73,Headphones,2
+983,user_38,Blazer,1
+986,user_85,Belt,4
+988,user_43,Wallet,5
+990,user_16,Power Bank,4
+991,user_12,Webcam,1
+992,user_83,Sportswear,2
+993,user_24,Skirt,2
+994,user_67,Jeans,5
+996,user_66,Samsung Galaxy,2
+998,user_99,Kaftan,1
+1000,user_33,Camera,5
+1002,user_39,Graphics Card,4
+1003,user_82,Belt,5
+1004,user_41,T-Shirt,3
+1005,user_40,Wireless Mouse,4
+1006,user_5,Drone,1
+1007,user_51,Monitor,4
+1008,user_25,Monitor,5
+1009,user_63,Cap,2
+1010,user_97,Microphone,1
+1011,user_58,Gaming Console,3
+1012,user_55,External Hard Drive,5
+1013,user_58,Handbag,2
+1014,user_69,Bluetooth Speaker,4
+1015,user_32,Projector,2
+1016,user_52,Hoodie,5
+1017,user_21,Headphones,5
+1018,user_20,Ankara Dress,2
+1020,user_69,Microphone,2
+1021,user_3,Power Bank,5
+1023,user_74,Shoes,3
+1024,user_61,T-Shirt,3
+1026,user_93,Suit,5
+1027,user_94,Webcam,3
+1028,user_23,Blazer,2
+1030,user_8,Webcam,2
+1031,user_2,Power Bank,4
+1032,user_30,Suit,3
+1033,user_39,Sportswear,1
+1034,user_35,Headphones,2
+1036,user_94,Microphone,2
+1038,user_65,Smart Watch,3
+1042,user_3,Laptop,1
+1043,user_78,SSD,3
+1044,user_5,Hoodie,3
+1045,user_93,External Hard Drive,5
+1046,user_50,Headphones,1
+1047,user_61,SSD,5
+1048,user_56,Cap,4
+1049,user_65,Dress,5
+1050,user_78,VR Headset,2
+1051,user_74,Projector,5
+1052,user_7,Handbag,3
+1053,user_25,Projector,4
+1054,user_50,Agbada,2
+1055,user_44,Sportswear,5
+1056,user_43,Projector,4
+1057,user_4,Graphics Card,4
+1058,user_69,SSD,2
+1059,user_25,Tracksuit,5
+1060,user_67,Wireless Mouse,4
+1061,user_18,Dress,4
+1063,user_96,Handbag,4
+1064,user_19,Sandals,1
+1065,user_11,Projector,5
+1066,user_46,Kaftan,5
+1067,user_0,Tracksuit,5
+1068,user_89,Sandals,3
+1069,user_13,Dress,5
+1070,user_63,Agbada,4
+1071,user_37,Sunglasses,2
+1072,user_36,VR Headset,1
+1073,user_10,Agbada,3
+1074,user_99,Sneakers,5
+1075,user_76,Ankara Dress,5
+1076,user_2,Gaming Console,2
+1077,user_32,Tracksuit,2
+1078,user_5,Sunglasses,3
+1079,user_49,Drone,1
+1080,user_9,Bluetooth Speaker,5
+1081,user_4,Headphones,3
+1082,user_22,Microphone,4
+1083,user_9,Kaftan,4
+1084,user_43,Ankara Dress,3
+1086,user_12,Router,3
+1087,user_39,Bluetooth Speaker,5
+1089,user_83,Monitor,3
+1091,user_62,Skirt,3
+1092,user_72,Camera,3
+1093,user_16,T-Shirt,5
+1094,user_8,External Hard Drive,5
+1095,user_74,Smart TV,1
+1096,user_14,Power Bank,3
+1098,user_37,Laptop,3
+1099,user_34,Keyboard,3
+1100,user_93,Wallet,5
+1101,user_94,Agbada,3
+1102,user_48,Dress,3
+1103,user_68,Tracksuit,4
+1105,user_59,Drone,3
+1106,user_49,Tracksuit,2
+1107,user_77,Projector,1
+1108,user_74,Belt,4
+1110,user_33,Sportswear,2
+1111,user_75,T-Shirt,3
+1112,user_98,Smart TV,3
+1113,user_34,Jacket,5
+1115,user_39,Microphone,5
+1121,user_71,Bluetooth Speaker,5
+1122,user_10,T-Shirt,3
+1123,user_13,Headphones,3
+1124,user_59,Skirt,2
+1125,user_29,Skirt,2
+1126,user_34,Heels,5
+1127,user_84,Shoes,3
+1128,user_36,iPhone,1
+1129,user_4,SSD,4
+1130,user_82,Sandals,3
+1131,user_77,Bluetooth Speaker,3
+1132,user_25,Scarf,2
+1133,user_61,Sportswear,4
+1135,user_88,Handbag,3
+1137,user_88,SSD,3
+1139,user_39,Sandals,4
+1140,user_71,Webcam,2
+1142,user_13,SSD,1
+1143,user_31,Boots,2
+1146,user_96,Graphics Card,3
+1147,user_22,Sneakers,3
+1148,user_62,Smart Watch,5
+1149,user_14,Shoes,2
+1151,user_24,Monitor,2
+1153,user_96,External Hard Drive,5
+1154,user_65,External Hard Drive,4
+1155,user_77,Handbag,5
+1156,user_52,Belt,1
+1157,user_50,Smart Home Hub,3
+1158,user_38,Keyboard,1
+1160,user_69,Boots,2
+1161,user_5,Camera,3
+1162,user_66,Tracksuit,1
+1163,user_6,Sandals,4
+1164,user_50,Wallet,1
+1165,user_71,Microphone,4
+1166,user_41,VR Headset,2
+1167,user_63,Wallet,1
+1168,user_14,Webcam,5
+1169,user_28,Headphones,2
+1170,user_32,Heels,4
+1172,user_26,Jeans,1
+1174,user_28,Bluetooth Speaker,3
+1175,user_37,Router,4
+1176,user_56,VR Headset,4
+1177,user_96,Wristwatch,3
+1178,user_26,Gaming Console,4
+1179,user_54,Microphone,2
+1180,user_32,SSD,5
+1184,user_9,Webcam,1
+1185,user_4,Belt,2
+1186,user_73,T-Shirt,4
+1187,user_96,Boots,2
+1188,user_37,Monitor,3
+1189,user_12,Hoodie,4
+1190,user_30,Webcam,3
+1191,user_46,VR Headset,4
+1192,user_99,Smart TV,5
+1193,user_87,Laptop,2
+1194,user_51,Processor,1
+1195,user_55,T-Shirt,4
+1196,user_14,Hoodie,4
+1200,user_28,Smart Home Hub,3
+1203,user_75,Scarf,3
+1204,user_44,Sunglasses,3
+1205,user_1,Heels,4
+1206,user_26,Headphones,5
+1207,user_94,Belt,2
+1210,user_25,Sunglasses,5
+1212,user_26,SSD,4
+1213,user_68,Cap,5
+1214,user_19,Sneakers,4
+1215,user_10,Wallet,1
+1216,user_73,Scarf,1
+1217,user_37,Skirt,2
+1218,user_5,Graphics Card,5
+1219,user_71,Agbada,3
+1222,user_89,Bluetooth Speaker,2
+1223,user_45,Sportswear,4
+1224,user_11,Bluetooth Speaker,2
+1226,user_12,iPhone,3
+1229,user_88,Smart TV,2
+1230,user_96,Samsung Galaxy,4
+1232,user_42,Kaftan,4
+1234,user_99,Power Bank,5
+1235,user_67,Cap,1
+1236,user_4,External Hard Drive,4
+1237,user_36,Kaftan,3
+1238,user_71,Skirt,5
+1239,user_91,Graphics Card,4
+1240,user_30,Wireless Mouse,2
+1241,user_8,SSD,4
+1244,user_77,Suit,5
+1246,user_40,Shoes,4
+1247,user_85,Agbada,5
+1248,user_10,Wristwatch,2
+1249,user_22,Smart Watch,4
+1250,user_0,Webcam,2
+1251,user_45,Microphone,2
+1252,user_20,T-Shirt,3
+1253,user_89,Headphones,4
+1255,user_53,Graphics Card,2
+1256,user_86,Router,3
+1257,user_56,Blazer,4
+1259,user_62,Router,1
+1261,user_54,Sneakers,2
+1262,user_39,Monitor,1
+1263,user_14,Jeans,2
+1264,user_20,Scarf,5
+1266,user_72,Sneakers,1
+1267,user_52,T-Shirt,5
+1269,user_73,Samsung Galaxy,2
+1271,user_56,Laptop,4
+1272,user_25,Tablet,1
+1273,user_40,Boots,2
+1274,user_34,Sunglasses,5
+1275,user_62,Belt,1
+1276,user_24,Shoes,1
+1278,user_74,Skirt,2
+1281,user_6,Heels,2
+1282,user_81,Wallet,5
+1283,user_90,Projector,1
+1284,user_33,Smart TV,4
+1285,user_90,Gaming Console,4
+1286,user_16,Wireless Mouse,3
+1287,user_42,Power Bank,4
+1288,user_58,Tablet,1
+1289,user_50,SSD,3
+1290,user_53,Sneakers,2
+1291,user_23,Scarf,4
+1293,user_70,Hoodie,1
+1294,user_51,Webcam,5
+1295,user_69,Tablet,5
+1296,user_87,Camera,1
+1298,user_48,Router,5
+1299,user_28,Kaftan,3
+1300,user_62,Sportswear,5
+1301,user_21,Blazer,1
+1303,user_27,Belt,2
+1304,user_84,Microphone,4
+1305,user_48,Bluetooth Speaker,4
+1306,user_70,Wireless Mouse,1
+1307,user_80,Samsung Galaxy,5
+1308,user_83,Smart Watch,3
+1309,user_48,External Hard Drive,4
+1310,user_19,Laptop,5
+1311,user_85,Tracksuit,3
+1312,user_91,Laptop,4
+1313,user_62,Jeans,3
+1314,user_60,Heels,5
+1315,user_48,Wallet,2
+1316,user_70,Blazer,5
+1317,user_0,Suit,1
+1318,user_95,Sunglasses,3
+1319,user_12,Sneakers,2
+1321,user_86,Tablet,3
+1322,user_50,Hoodie,4
+1323,user_55,Wristwatch,1
+1324,user_82,Kaftan,3
+1326,user_31,Hoodie,5
+1327,user_29,Headphones,4
+1328,user_28,Dress,1
+1331,user_92,Projector,2
+1332,user_29,Wristwatch,4
+1333,user_15,Camera,4
+1334,user_39,Wireless Mouse,5
+1335,user_18,Gaming Console,5
+1336,user_17,Sportswear,2
+1337,user_0,External Hard Drive,2
+1339,user_46,Tracksuit,4
+1340,user_65,Webcam,4
+1341,user_91,Dress,5
+1342,user_93,Keyboard,1
+1343,user_37,Cap,4
+1345,user_62,Sneakers,1
+1346,user_3,Suit,5
+1347,user_0,Handbag,1
+1348,user_7,Jeans,2
+1349,user_28,Smart TV,2
+1350,user_54,Smart Home Hub,3
+1351,user_2,Laptop,5
+1352,user_31,Sunglasses,3
+1353,user_9,Headphones,2
+1354,user_73,Smart Home Hub,3
+1355,user_82,Microphone,5
+1356,user_33,Cap,5
+1357,user_96,T-Shirt,1
+1358,user_86,Smart TV,4
+1360,user_91,Sneakers,5
+1361,user_31,Jacket,2
+1362,user_49,Camera,2
+1363,user_6,Suit,1
+1364,user_92,Heels,5
+1365,user_7,Bluetooth Speaker,2
+1366,user_64,Projector,5
+1367,user_56,Boots,2
+1368,user_66,Gaming Console,5
+1370,user_86,Ankara Dress,5
+1371,user_58,Boots,5
+1372,user_71,Boots,1
+1373,user_53,Camera,3
+1376,user_96,Cap,4
+1378,user_7,Laptop,4
+1379,user_33,Wireless Mouse,5
+1380,user_34,Sneakers,4
+1381,user_95,Dress,1
+1382,user_87,T-Shirt,1
+1383,user_77,Kaftan,4
+1384,user_31,Webcam,1
+1385,user_45,Sneakers,1
+1386,user_15,T-Shirt,4
+1387,user_67,Sunglasses,3
+1388,user_36,Webcam,3
+1389,user_53,Shoes,2
+1390,user_84,Cap,1
+1391,user_13,Scarf,4
+1392,user_94,Ankara Dress,1
+1393,user_54,VR Headset,5
+1394,user_47,Gaming Console,1
+1396,user_6,Kaftan,3
+1397,user_73,Graphics Card,4
+1398,user_6,Drone,1
+1399,user_32,Smart TV,3
+1400,user_22,Boots,2
+1401,user_84,Gaming Console,3
+1404,user_35,Jeans,1
+1405,user_28,Shoes,1
+1406,user_59,Sunglasses,2
+1407,user_81,Microphone,5
+1409,user_0,Cap,5
+1410,user_46,Samsung Galaxy,2
+1411,user_68,Shoes,5
+1412,user_19,Blazer,5
+1413,user_10,Sneakers,3
+1415,user_66,Skirt,1
+1416,user_86,Bluetooth Speaker,3
+1417,user_11,Camera,3
+1418,user_19,Microphone,3
+1420,user_36,Tablet,5
+1422,user_93,Laptop,2
+1423,user_8,Headphones,3
+1424,user_97,Smart Home Hub,4
+1425,user_52,Ankara Dress,3
+1426,user_43,Suit,1
+1428,user_85,Webcam,4
+1429,user_23,Shoes,2
+1430,user_80,Sportswear,5
+1431,user_73,Monitor,3
+1433,user_58,Wireless Mouse,4
+1434,user_86,Drone,2
+1435,user_95,Skirt,1
+1436,user_80,Camera,3
+1437,user_80,Shoes,4
+1438,user_13,Keyboard,2
+1439,user_8,Router,5
+1440,user_39,VR Headset,4
+1441,user_65,Sunglasses,2
+1442,user_24,Bluetooth Speaker,1
+1443,user_72,Jeans,1
+1444,user_21,Processor,4
+1445,user_3,Jeans,4
+1446,user_25,Cap,3
+1447,user_57,Sportswear,2
+1448,user_28,Suit,4
+1449,user_97,Monitor,3
+1450,user_86,Sandals,3
+1453,user_69,Projector,2
+1454,user_17,Dress,2
+1455,user_84,Monitor,1
+1457,user_99,Agbada,2
+1458,user_40,Smart Home Hub,4
+1459,user_37,Blazer,4
+1461,user_16,Monitor,1
+1463,user_24,Suit,5
+1464,user_75,Processor,1
+1465,user_86,Graphics Card,2
+1467,user_84,Projector,2
+1470,user_30,Belt,2
+1471,user_5,Projector,4
+1472,user_90,Camera,2
+1473,user_39,Sneakers,3
+1477,user_70,Monitor,2
+1478,user_9,Camera,3
+1479,user_44,Projector,1
+1482,user_84,Suit,1
+1483,user_91,Sandals,5
+1484,user_61,Blazer,4
+1485,user_45,Drone,2
+1487,user_1,Camera,2
+1488,user_53,Sunglasses,4
+1489,user_64,Smart Home Hub,4
+1490,user_50,Monitor,4
+1492,user_35,Shoes,1
+1494,user_28,Monitor,3
+1495,user_20,Dress,2
+1496,user_10,Scarf,5
+1497,user_39,Headphones,1
+1498,user_10,Headphones,4
+1501,user_38,Samsung Galaxy,5
+1504,user_97,Graphics Card,4
+1505,user_54,Scarf,5
+1506,user_23,External Hard Drive,2
+1507,user_21,Jacket,2
+1508,user_68,Agbada,4
+1509,user_55,Kaftan,1
+1510,user_32,Dress,5
+1512,user_19,Shoes,2
+1513,user_82,Gaming Console,5
+1514,user_98,Sportswear,1
+1515,user_80,Heels,3
+1516,user_61,Webcam,4
+1517,user_97,Webcam,4
+1518,user_72,Smart TV,3
+1519,user_25,Kaftan,2
+1521,user_72,Hoodie,4
+1522,user_72,Laptop,3
+1523,user_39,Boots,3
+1525,user_0,Camera,2
+1526,user_88,Camera,1
+1528,user_42,Shoes,1
+1529,user_41,Drone,3
+1531,user_38,SSD,5
+1532,user_34,Wristwatch,2
+1533,user_2,iPhone,5
+1534,user_43,Tablet,5
+1536,user_93,Processor,3
+1537,user_97,Ankara Dress,5
+1538,user_11,Blazer,5
+1539,user_18,Wireless Mouse,5
+1540,user_43,Wireless Mouse,1
+1541,user_58,Sportswear,3
+1542,user_48,Ankara Dress,2
+1544,user_16,Scarf,4
+1546,user_56,T-Shirt,3
+1547,user_54,Jacket,4
+1552,user_87,Microphone,3
+1553,user_82,Jacket,5
+1554,user_7,Headphones,5
+1555,user_94,Smart Watch,4
+1556,user_20,Sneakers,2
+1557,user_80,Sneakers,1
+1558,user_86,Headphones,2
+1559,user_79,Graphics Card,5
+1560,user_69,Wireless Mouse,2
+1561,user_71,Tracksuit,4
+1562,user_24,Laptop,1
+1563,user_81,Graphics Card,4
+1564,user_88,Boots,1
+1567,user_58,Cap,1
+1568,user_25,Jeans,1
+1570,user_46,iPhone,2
+1572,user_9,Processor,1
+1573,user_15,Suit,3
+1574,user_70,Bluetooth Speaker,5
+1575,user_16,Graphics Card,1
+1576,user_22,Smart Home Hub,1
+1578,user_84,Drone,5
+1579,user_85,Wireless Mouse,1
+1580,user_6,Bluetooth Speaker,1
+1581,user_13,T-Shirt,5
+1582,user_78,Jeans,3
+1583,user_6,Tablet,5
+1584,user_8,Projector,5
+1585,user_47,Belt,3
+1586,user_71,iPhone,5
+1588,user_86,Tracksuit,5
+1589,user_92,Agbada,3
+1590,user_81,Shoes,4
+1592,user_93,Monitor,2
+1593,user_38,Shoes,1
+1594,user_98,Kaftan,1
+1595,user_17,Tracksuit,2
+1597,user_16,Agbada,5
+1600,user_23,Agbada,3
+1602,user_59,Agbada,2
+1604,user_97,Wallet,1
+1605,user_2,Microphone,1
+1606,user_36,Sunglasses,5
+1607,user_42,T-Shirt,4
+1608,user_39,Skirt,3
+1609,user_89,Webcam,3
+1610,user_54,Agbada,4
+1612,user_38,Wallet,1
+1613,user_14,Scarf,3
+1614,user_3,Camera,3
+1615,user_92,SSD,4
+1617,user_24,Agbada,3
+1618,user_12,Scarf,2
+1619,user_81,Drone,4
+1622,user_41,Skirt,1
+1623,user_65,Scarf,3
+1625,user_98,Keyboard,1
+1626,user_41,Gaming Console,3
+1628,user_29,Projector,5
+1629,user_12,Gaming Console,2
+1630,user_12,Keyboard,5
+1633,user_95,iPhone,4
+1634,user_98,Blazer,4
+1635,user_38,Boots,5
+1636,user_45,Projector,2
+1637,user_28,Wireless Mouse,4
+1638,user_61,Tablet,5
+1639,user_92,Tablet,2
+1640,user_61,Tracksuit,3
+1641,user_56,Wireless Mouse,3
+1642,user_15,Kaftan,1
+1643,user_55,Sunglasses,5
+1644,user_9,Tracksuit,2
+1647,user_83,Sneakers,2
+1649,user_64,Tablet,1
+1650,user_93,Smart Home Hub,3
+1651,user_48,Jeans,2
+1652,user_2,Sportswear,2
+1655,user_29,Tracksuit,5
+1656,user_67,Ankara Dress,5
+1657,user_17,Processor,4
+1659,user_36,Ankara Dress,3
+1660,user_24,Microphone,5
+1661,user_47,VR Headset,5
+1662,user_64,VR Headset,2
+1663,user_52,Samsung Galaxy,5
+1664,user_78,Headphones,4
+1665,user_72,Dress,4
+1666,user_14,Sunglasses,5
+1667,user_48,Sandals,2
+1668,user_87,VR Headset,2
+1672,user_36,Sneakers,2
+1673,user_60,Blazer,4
+1674,user_42,Microphone,3
+1675,user_69,Agbada,3
+1676,user_38,Sunglasses,2
+1677,user_55,Wireless Mouse,3
+1679,user_45,Scarf,1
+1680,user_87,Skirt,4
+1681,user_10,Samsung Galaxy,4
+1682,user_61,Jacket,1
+1683,user_76,Scarf,1
+1684,user_97,Power Bank,3
+1685,user_24,Samsung Galaxy,5
+1686,user_70,Gaming Console,3
+1687,user_51,Keyboard,1
+1689,user_58,Monitor,3
+1690,user_71,VR Headset,5
+1691,user_19,Camera,3
+1692,user_92,Skirt,2
+1694,user_53,Laptop,1
+1695,user_73,Microphone,4
+1696,user_97,Bluetooth Speaker,4
+1697,user_56,Jeans,1
+1698,user_89,Samsung Galaxy,2
+1699,user_40,Jacket,1
+1700,user_2,Suit,3
+1701,user_5,Laptop,1
+1703,user_4,Dress,2
+1707,user_48,Scarf,4
+1708,user_8,Wireless Mouse,1
+1709,user_98,Shoes,4
+1710,user_19,Wallet,2
+1711,user_60,iPhone,5
+1712,user_34,Tracksuit,1
+1713,user_49,Router,2
+1714,user_81,T-Shirt,2
+1716,user_16,Webcam,2
+1717,user_87,Agbada,1
+1719,user_31,Smart Home Hub,3
+1721,user_12,SSD,2
+1722,user_88,Suit,2
+1724,user_67,Webcam,3
+1725,user_13,Wallet,3
+1726,user_97,VR Headset,5
+1728,user_55,Shoes,5
+1730,user_91,Camera,2
+1732,user_8,Dress,1
+1735,user_97,Wristwatch,3
+1736,user_75,Laptop,3
+1738,user_8,Sneakers,3
+1740,user_39,Router,3
+1741,user_24,Scarf,5
+1742,user_4,Processor,3
+1743,user_10,Blazer,2
+1745,user_97,Kaftan,4
+1747,user_78,Sandals,2
+1749,user_71,SSD,4
+1750,user_4,Skirt,5
+1751,user_47,Cap,4
+1753,user_17,Hoodie,2
+1754,user_69,Smart Watch,3
+1755,user_36,Headphones,3
+1756,user_59,Hoodie,3
+1757,user_47,iPhone,4
+1758,user_76,iPhone,4
+1759,user_27,Ankara Dress,5
+1760,user_68,Microphone,3
+1761,user_76,Projector,1
+1762,user_80,Jacket,5
+1764,user_44,VR Headset,4
+1766,user_61,Shoes,5
+1767,user_92,Wallet,2
+1769,user_66,Handbag,4
+1770,user_55,Jeans,5
+1771,user_39,Gaming Console,4
+1773,user_39,Agbada,2
+1774,user_90,Suit,5
+1776,user_32,Tablet,4
+1778,user_87,Kaftan,5
+1781,user_39,iPhone,4
+1782,user_91,Handbag,4
+1783,user_96,Headphones,3
+1784,user_58,Agbada,5
+1785,user_58,Tracksuit,2
+1786,user_47,Heels,5
+1787,user_40,Smart TV,5
+1788,user_12,Dress,3
+1789,user_44,SSD,4
+1792,user_41,Tracksuit,1
+1793,user_99,Headphones,4
+1794,user_62,T-Shirt,2
+1798,user_6,Jeans,5
+1800,user_44,Heels,2
+1802,user_30,Router,3
+1804,user_41,Belt,4
+1805,user_9,Hoodie,4
+1810,user_30,Processor,3
+1811,user_81,Bluetooth Speaker,4
+1813,user_1,VR Headset,4
+1814,user_77,Camera,1
+1815,user_76,Agbada,4
+1816,user_92,Jacket,2
+1819,user_65,Drone,4
+1820,user_95,Tracksuit,3
+1821,user_12,Wristwatch,5
+1822,user_45,Kaftan,2
+1823,user_26,Graphics Card,4
+1824,user_16,Headphones,5
+1825,user_94,Smart TV,4
+1826,user_97,Hoodie,2
+1827,user_59,Scarf,5
+1829,user_87,Keyboard,1
+1830,user_34,Cap,2
+1831,user_69,Tracksuit,4
+1832,user_82,Graphics Card,3
+1833,user_29,Processor,2
+1834,user_70,Laptop,3
+1835,user_73,Belt,1
+1836,user_95,Cap,5
+1839,user_27,Agbada,5
+1841,user_78,Sportswear,3
+1842,user_93,Boots,4
+1844,user_92,Boots,2
+1845,user_21,Gaming Console,2
+1846,user_67,Skirt,4
+1850,user_67,SSD,1
+1851,user_90,Shoes,3
+1854,user_11,Cap,2
+1856,user_16,Sandals,4
+1857,user_9,Drone,1
+1858,user_64,Shoes,1
+1859,user_21,VR Headset,3
+1860,user_89,Blazer,4
+1862,user_49,SSD,4
+1864,user_63,Hoodie,2
+1865,user_46,Skirt,2
+1866,user_28,Webcam,2
+1867,user_75,Tablet,4
+1873,user_28,Projector,3
+1874,user_10,Jeans,3
+1877,user_78,Tracksuit,4
+1878,user_31,Ankara Dress,3
+1879,user_50,Wireless Mouse,2
+1880,user_74,Webcam,3
+1881,user_57,Gaming Console,1
+1882,user_86,Skirt,2
+1884,user_97,Smart TV,2
+1887,user_28,Scarf,4
+1888,user_3,Sportswear,1
+1889,user_80,Wireless Mouse,5
+1892,user_38,Projector,2
+1893,user_14,T-Shirt,1
+1895,user_28,Boots,1
+1897,user_31,Wristwatch,5
+1898,user_1,Bluetooth Speaker,5
+1899,user_46,Sandals,1
+1901,user_83,Gaming Console,2
+1902,user_21,Sunglasses,3
+1903,user_74,SSD,3
+1904,user_26,Processor,1
+1907,user_55,Gaming Console,1
+1908,user_91,Heels,2
+1910,user_20,Monitor,1
+1911,user_46,Jeans,4
+1912,user_79,VR Headset,2
+1913,user_58,Sneakers,1
+1914,user_83,Ankara Dress,2
+1915,user_5,Ankara Dress,1
+1917,user_56,Smart Watch,4
+1919,user_2,Shoes,2
+1921,user_57,Camera,3
+1923,user_14,Tracksuit,4
+1924,user_33,Drone,3
+1925,user_60,Drone,2
+1927,user_63,Sunglasses,2
+1928,user_24,Wristwatch,5
+1929,user_23,Tablet,4
+1932,user_14,Laptop,4
+1933,user_79,Smart TV,5
+1934,user_26,Keyboard,5
+1935,user_71,Ankara Dress,2
+1936,user_59,Sportswear,5
+1938,user_88,External Hard Drive,2
+1939,user_16,Heels,2
+1940,user_92,Wristwatch,4
+1941,user_52,Graphics Card,4
+1942,user_7,Jacket,5
+1943,user_78,Graphics Card,4
+1944,user_26,Wallet,5
+1945,user_45,Laptop,4
+1946,user_49,Power Bank,1
+1947,user_70,Belt,1
+1948,user_2,Webcam,5
+1949,user_92,External Hard Drive,4
+1950,user_63,Wireless Mouse,4
+1951,user_43,Samsung Galaxy,2
+1952,user_52,Scarf,3
+1953,user_23,SSD,5
+1954,user_59,Shoes,3
+1955,user_2,Dress,3
+1957,user_45,Ankara Dress,4
+1959,user_24,Projector,3
+1960,user_93,Heels,4
+1961,user_77,Tablet,1
+1964,user_83,Blazer,4
+1965,user_99,Smart Watch,1
+1967,user_37,Smart Watch,4
+1968,user_47,Laptop,2
+1969,user_59,iPhone,5
+1970,user_62,Sandals,5
+1971,user_85,Smart Home Hub,3
+1972,user_1,Hoodie,4
+1973,user_87,iPhone,3
+1975,user_10,Hoodie,1
+1977,user_76,Blazer,3
+1978,user_80,Tablet,1
+1979,user_71,Smart TV,4
+1981,user_17,iPhone,5
+1982,user_93,Sandals,3
+1983,user_63,Shoes,4
+1984,user_81,Samsung Galaxy,3
+1988,user_10,Cap,1
+1990,user_88,Monitor,5
+1991,user_32,Headphones,5
+1992,user_40,Dress,4
+1994,user_10,Suit,1
+1995,user_85,Gaming Console,1
+1997,user_87,Tablet,4
+1998,user_40,Laptop,3
